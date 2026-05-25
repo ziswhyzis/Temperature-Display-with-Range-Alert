@@ -1,6 +1,6 @@
 # 🌡️ Temperature Display with Range Alert
 
-Welcome to the repository for my Digital Logic Design course project! This project focuses on designing a hardware-level temperature monitoring and warning system strictly using foundational logic gates.
+Welcome to my Logic Design course project! This project focuses on designing a hardware-level temperature monitoring and warning system ***strictly using foundational logic gates***.
 
 ## 📋 Project Overview
 
